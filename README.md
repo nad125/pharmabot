@@ -1,5 +1,4 @@
-# pharmabot
-Here is a professional `README.md` file for the pharmacy agent code you provided.
+
 
 -----
 
